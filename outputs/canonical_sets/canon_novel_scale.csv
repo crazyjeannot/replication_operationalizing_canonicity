@@ -1,0 +1,141 @@
+authors,novels,Nb novels
+Balzac-Honore-de,"['Louis-Lambert', 'Pierrette', 'La-Recherche-de-l-Absolu', 'Le-Chef-d-oeuvre-inconnu', 'Eugenie-Grandet', 'Ursule-Mirouet', 'Splendeurs-et-miseres-des-courtisanes', 'Le-Cure-de-village', 'Illusions-perdues', 'Physiologie-du-mariage', 'Le-Colonel-Chabert', 'Le-Pere-Goriot', 'Un-debut-dans-la-vie', 'Le-Lys-dans-la-vallee', 'Une-tenebreuse-affaire', 'Le-Contrat-de-mariage', 'Les-Paysans', 'La-Femme-de-trente-ans', 'Beatrix', 'Adieu', 'Le-Medecin-de-campagne', 'Le-Cure-de-Tours']",22
+Zola-Emile,"['L-oeuvre', 'La-curee', 'Germinal', 'La-joie-de-vivre', 'Le-reve', 'Le-ventre-de-Paris', 'La-faute-de-l-abbe-Mouret', 'Therese-Raquin', 'Au-bonheur-des-dames', 'Son-excellence-Eugene-Rougon', 'La-terre', 'L-argent', 'Le-docteur-Pascal', 'Nana', 'Madeleine-Ferat', 'La-conquete-de-Plassans', 'L-assommoir', 'La-bete-humaine', 'La-fortune-des-Rougon', 'La-debacle']",20
+Guy-de-Maupassant,"['Pierre-et-Jean', 'Une-vie', 'Mademoiselle-Fifi', 'La-main-gauche', 'Notre-coeur', 'Contes-du-jour-et-de-la-nuit', 'Mont-Oriol', 'Contes-de-la-Becasse', 'Au-soleil', 'Bel-ami']",10
+Rolland-Romain,"['Jean-Christophe', 'Jean-Christophe', 'Jean-Christophe', 'Jean-Christophe', 'Jean-Christophe', 'Jean-Christophe', 'Jean-Christophe', 'Jean-Christophe', 'Jean-Christophe', 'Jean-Christophe']",10
+Verne-Jules,"['Les-Tribulations-d-un-Chinois-en-Chine', 'Un-capitaine-de-quinze-ans', 'Vingt-mille-lieues-sous-les-mers', 'L-Ile-Mysterieuse', 'Le-tour-du-monde-en-quatre-vingts-jours', 'Le-Chateau-des-Carpathes', 'Cinq-Semaines-en-ballon', 'De-la-Terre-a-la-Lune', 'Mathias-Sandorf', 'Voyage-au-centre-de-la-Terre']",10
+Hugo-Victor,"['Les-travailleurs-de-la-mer', 'Quatrevingt-Treize', 'Claude-Gueux', 'Les-Miserables', 'Le-dernier-jour-d-un-condamne', 'Notre-Dame-de-Paris', 'L-homme-qui-rit', 'Notre-Dame-de-Paris']",8
+Dumas-Alexandre,"['Le-Comte-de-Monte-Cristo', 'La-Dame-de-Monsoreau', 'La-Reine-Margot', 'Le-Vicomte-de-Bragelonne', 'La-dame-aux-camelias', 'Le-Corricolo', 'Les-Trois-Mousquetaires', 'Vingt-ans-apres']",8
+Chateaubriand-François-Rene-de,"['Memoires-d-Outre-Tombe', 'Oeuvres-completes', 'Memoires-d-Outre-Tombe', 'Memoires-d-Outre-Tombe', 'Memoires-d-Outre-Tombe', 'Vie-de-Rance', 'Memoires-d-Outre-Tombe']",7
+Proust-Marcel,"['A-l-ombre-des-jeunes-filles-en-fleurs', 'Albertine-disparue', 'Le-Cote-de-Guermantes', 'Sodome-et-Gomorrhe', 'La-Prisonniere', 'Le-Temps-retrouve', 'Du-cote-de-chez-Swann']",7
+Colette,"['La-Fin-de-Cheri', 'Les-Vrilles-de-la-vigne', 'Sido', 'Le-Ble-en-herbe', 'La-naissance-du-jour']",5
+Flaubert-Gustave,"['Bouvard-et-Pecuchet', 'La-tentation-de-saint-Antoine', 'L-Education-sentimentale', 'Madame-Bovary', 'Salammbo']",5
+Stendhal,"['Lucien-Leuwen', 'La-Chartreuse-de-Parme', 'Chroniques-italiennes', 'Le-Rouge-et-le-noir']",4
+Tournier-Michel,"['Vendredi-ou-la-vie-sauvage', 'Le-Roi-des-Aulnes', 'Vendredi-ou-les-limbes-du-Pacifique', 'Le-Coq-de-bruyere']",4
+Daudet-Alphonse,"['Sapho', 'Lettres-de-mon-moulin', 'Contes-du-lundi', 'Jack']",4
+Camus-Albert,"['Le-premier-homme', 'L-etranger', 'Le-premier-homme', 'La-peste']",4
+Sand-George,"['La-petite-Fadette', 'La-Mare-au-Diable', 'Horace', 'Pauline']",4
+Aragon-Louis,"['Les-Beaux-Quartiers', 'Aurelien', 'Les-Voyageurs-de-l-Imperiale', 'Les-aventures-de-Telemaque']",4
+Goncourt-Edmond-de-Goncourt-Jules-de,"['Charles-Demailly', 'Renee-Mauperin', 'La-fille-Elisa', 'Germinie-Lacerteux']",2
+Giono-Jean,"['Le-Hussard-sur-le-toit', 'Regain', 'Les-vraies-richesses']",3
+Leblanc-Maurice,"['Une-femme', 'Contes', 'La-frontiere']",3
+Beauvoir-Simone-de,"['Les-Mandarins', 'Memoires-d-une-jeune-fille-rangee', 'Les-Mandarins']",3
+Ernaux-Annie,"['Les-annees', 'La-place', 'La-femme-gelee']",3
+Huysmans-Joris-Karl,"['Les-soeurs-Vatard', 'a-rebours', 'La-bas']",3
+Barbey-d-Aurevilly-Jules,"['L-ensorcelee', 'Les-Diaboliques', 'Le-Chevalier-des-Touches']",3
+Modiano-Patrick,"['Les-boulevards-de-ceinture', 'Rue-des-boutiques-obscures', 'Livret-de-famille']",3
+Robbe-Grillet-Alain,"['Les-Gommes', 'La-reprise']",2
+Farrere-Claude,"['Les-civilises', 'La-Bataille']",2
+Michon-Pierre,"['Les-Onze', 'Rimbaud-le-fils']",2
+Echenoz-Jean,"['Je-m-en-vais', 'Cherokee']",2
+Kerangal-Maylis-de,"['Reparer-les-vivants', 'Naissance-d-un-pont']",2
+Gary-Romain,"['Les-Racines-du-Ciel', 'La-promesse-de-l-aube']",2
+Renard-Jules,"['Poil-de-carotte', 'Coquecigrues']",2
+Quignard-Pascal,"['Terrasse-a-Rome', 'Tous-Les-Matins-Du-Monde']",2
+Gaude-Laurent,"['Cris', 'La-Mort-du-roi-Tsongor']",2
+Gautier-Theophile,"['Mademoiselle-de-Maupin', 'Le-capitaine-Fracasse']",2
+Pergaud-Louis,"['De-Goupil-a-Margot', 'La-Guerre-des-boutons']",2
+Perec-Georges,"['Les-choses', 'La-Vie-mode-d-emploi']",2
+Gide-Andre,"['Les-Faux-monnayeurs', 'Les-Caves-du-Vatican']",2
+Duras-Marguerite,"['Un-barrage-contre-le-Pacifique', 'L-Amant']",2
+Sainte-Beuve,"['Volupte', 'Volupte']",2
+Kessel-Joseph,"['Les-Captifs', 'Le-lion']",2
+Loti-Pierre,"['Le-roman-d-un-enfant', 'Madame-Chrysantheme']",2
+de-Vigan-Delphine,"['Rien-ne-s-oppose-a-la-nuit', 'No-et-moi']",2
+Deon-Michel,"['Un-Taxi-mauve', 'Les-poneys-sauvages']",2
+Saint-Exupery-Antoine-de,"['Vol-de-nuit', 'Terre-des-hommes']",2
+Houellebecq-Michel,"['La-Carte-et-le-territoire', 'La-possibilite-d-une-ile']",2
+Sarraute-Nathalie,"['Tropismes', 'Enfance']",2
+Barbusse-Henri,"['L-enfer', 'Le-Feu']",2
+Bauchau-Henry,"['L-Enfant-rieur', 'Le-Boulevard-peripherique']",2
+Simon-Claude,"['Histoire', 'La-Route-des-Flandres']",2
+Valles-Jules,"['Le-Bachelier', 'L-Enfant']",2
+Yourcenar-Marguerite,"['L-Oeuvre-Au-Noir', 'Souvenirs-pieux']",2
+Bernanos-Georges,"['La-joie', 'Sous-le-soleil-de-Satan']",2
+Malraux-Andre,"['La-Condition-Humaine', 'La-voie-royale']",2
+Mme-Tarbe-Des-Sablons,['Isabelle'],1
+Moselly-Emile,['Terres-lorraines'],1
+Musset-Alfred-de,['La-Confession-d-un-enfant-du-siecle'],1
+Muller-Rene,['Les-Enfants-gates'],1
+Murger-Henri,['Scenes-de-la-vie-de-Boheme'],1
+Nimier-Marie,['La-Reine-du-silence'],1
+Nothomb-Amelie,['Metaphysique-des-tubes'],1
+Nizan-Paul,['La-Conspiration'],1
+Musso-Guillaume,['Demain'],1
+N-Diaye-Marie,['Trois-femmes-puissantes'],1
+Nerval-Gerard-de,['Aurelia'],1
+Ajar-Emile-Gary-Romain,['La-Vie-Devant-Soi'],1
+Rodenbach-Georges,['Bruges-la-Morte'],1
+Orsenna-Erik,['L-exposition-coloniale'],1
+Pagnol-Marcel,['Le-Temps-des-Secrets'],1
+Zeniter-Alice,['Sombre-dimanche'],1
+Volodine-Antoine,['Des-anges-mineurs'],1
+Vigny-Alfred-de,['Stello'],1
+Vigan-Delphine-de,['Les-heures-souterraines'],1
+Verlaine-Paul,['Mes-prisons'],1
+Vercel-Roger,['Capitaine-Conan'],1
+Veber-Pierre,['L-aventure'],1
+Vargas-Fred,['L-homme-a-l-envers'],1
+Toussaint-Jean-Philippe,['La-Verite-sur-Marie'],1
+Segur-comtesse-de,['Les-Malheurs-de-Sophie'],1
+Schwob-Marcel,['Vies-imaginaires'],1
+Rufin-Jean-Christophe,['Rouge-Bresil'],1
+Rolin-Olivier,['Port-Soudan'],1
+Rolin-Jean,['L-Organisation'],1
+Riboulet-Mathieu,['Les-oeuvres-de-misericorde'],1
+Radiguet-Raymond,['Le-diable-au-corps'],1
+Queneau-Raymond,['Zazie-Dans-Le-Metro'],1
+Mirbeau-Octave,['Le-journal-d-une-femme-de-chambre'],1
+Jenni-Alexis,['L-art-francais-de-la-guerre'],1
+Michel-Louise,['Memoires'],1
+Chateaubriant-Alphonse-de,['La-Briere'],1
+Deville-Patrick,['Peste-et-cholera'],1
+Delly,['Contes'],1
+Darrieussecq-Marie,['Il-faut-beaucoup-aimer-les-hommes'],1
+Daeninckx-Didier,['Cannibale'],1
+Cusset-Catherine,['Un-brillant-avenir'],1
+Constant-Paule,['Confidence-pour-confidence'],1
+Constant-Benjamin,['Adolphe'],1
+Combescot-Pierre,['Les-filles-du-Calvaire'],1
+Cohen-Albert,['Le-livre-de-ma-mere'],1
+Claudel-Philippe,['Le-rapport-de-Brodeck'],1
+Chevillard-Eric,['Un-fantome'],1
+Cendrars-Blaise,['L-or'],1
+Mauriac-François,['Le-baiser-au-lepreux'],1
+Celine-Louis-Ferdinand,['Voyage-au-bout-de-la-nuit'],1
+Carrere-Emmanuel,['La-classe-de-neige'],1
+Cardinal-Marie,['Les-mots-pour-le-dire'],1
+Bouvier-Nicolas,['L-usage-du-monde'],1
+Bouraoui-Nina,['Mes-mauvaises-pensees'],1
+Bloy-Leon,['Le-Desespere'],1
+Benoit-Pierre,['L-Atlantide'],1
+Beigbeder-Frederic,['Windows-on-the-World'],1
+Beckett-Samuel,['Molloy'],1
+Audoux-Marguerite,['Marie-Claire'],1
+Arlincourt-Charles-Victor,['Le-Solitaire'],1
+Dhotel-Andre,['Le-pays-ou-l-on-n-arrive-jamais'],1
+Dugain-Marc,['La-chambre-des-officiers'],1
+Duhamel-Georges,['Le-notaire-du-Havre'],1
+Enard-Mathias,['Zone'],1
+Mauriac-Francois,['Un-adolescent-d-autrefois'],1
+Marceau-Felicien,['Creezy'],1
+Magali,['La-prisonniere'],1
+Lemaitre-Pierre,['Au-revoir-la-haut'],1
+Leiris-Michel,['L-Age-d-homme'],1
+Leger-Nathalie,['Supplement-a-la-vie-de-Barbara-Loden'],1
+Le-Clezio-Jean-Marie-Gustave,['Desert'],1
+Lautreamont-comte-de,['Les-chants-de-Maldoror'],1
+Laurent-Jacques,['Les-betises'],1
+Laine-Pascal,['La-dentelliere'],1
+Alain-Fournier,['Le-grand-Meaulnes'],1
+Ionesco-Eugene,['Le-solitaire'],1
+Grimbert-Philippe,['Un-secret'],1
+Gracq-Julien,['Le-rivage-des-Syrtes'],1
+Germain-Sylvie,['Magnus'],1
+Genevoix-Maurice,['Raboliot'],1
+Gailly-Christian,['Un-soir-au-club'],1
+Fromentin-Eugene,['Dominique'],1
+Feval-Paul-fils,['Le-Bossu'],1
+Ferney-Alice,['Cherchez-La-Femme'],1
+Farrenc-Cesarie,['La-jalousie'],1
+Erckmann-Chatrian,['Contes-fantastiques'],1
